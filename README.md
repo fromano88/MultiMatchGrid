@@ -2,9 +2,7 @@
 
 This repository hosts the supplementary PDF accompanying the 2026 doctoral thesis *Multiscale Modelling of Weakly Porous Grid Flows* by **Hossameldin Abdelaziz**. The research was supervised by **Francesco Romanò** at the Laboratoire de Mécanique des Fluides de Lille (LMFL), Arts et Métiers Institute of Technology, Lille, France.
 
-**[Read the supplementary PDF](Supplementary_Material_Detailed_Appendices.pdf)**
-
-The PDF provides numerical methods, spectral results, machine-learning validation, and detailed model comparisons that support the main thesis. It contains four appendices:
+The PDF file (divided in several parts) provides numerical methods, spectral results, machine-learning validation, and detailed model comparisons that support the main thesis. It contains four appendices:
 
 ## Contents
 
